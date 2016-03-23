@@ -1,5 +1,6 @@
 {
   "name": "yo-profile",
+  "version": "1.0.0",
   "description": "Dynamic profile parser for Yeoman generators",
   "main": "./lib/yo-profile.js",
   "repository": {
