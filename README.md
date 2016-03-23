@@ -71,7 +71,7 @@ default=First
 MIT © [Eric Mann](https://eamann.com)
 
 
-[npm-image]: https://badge.fury.io/js/lansa.svg
-[npm-url]: https://npmjs.org/package/lansa
-[daviddm-image]: https://david-dm.org/ericmann/lansa.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/ericmann/lansa
+[npm-image]: https://badge.fury.io/js/yo-profile.svg
+[npm-url]: https://npmjs.org/package/yo-profile
+[daviddm-image]: https://david-dm.org/ericmann/yo-profile.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/ericmann/yo-profile
