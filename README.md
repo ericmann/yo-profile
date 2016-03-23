@@ -14,7 +14,7 @@ $ npm install --save yo-profile
 Once installed, add an include for the project in your generator's base index file:
 
 ```js
-var profile = new ( require( '../yo-profile' ).YoProfile );
+var profile = new ( require( 'yo-profile' ).default );
 ```
 
 Then, create an object, specifying default (empty) fields and a file path somewhere in your generator's `init` method. You can use chaining to immediately access the parsed properties:
